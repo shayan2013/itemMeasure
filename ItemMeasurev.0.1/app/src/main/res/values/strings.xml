@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Item Measure v.0.1</string>
+
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="cropButton">double crop</string>
+</resources>
